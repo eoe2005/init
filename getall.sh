@@ -11,7 +11,6 @@ git clone git@github.com:eoe2005/CFWK.git
 git clone git@github.com:eoe2005/platformio_wch583m.git
 git clone git@github.com:eoe2005/platformio_wch583m_sdk.git
 git clone git@github.com:eoe2005/isr-blog-nextjs-wordpress.git
-git clone git@github.com:eoe2005/pserver.git
 git clone git@github.com:eoe2005/g.git
 git clone git@github.com:eoe2005/goapp.git
 git clone git@github.com:eoe2005/goutils.git
