@@ -6,7 +6,6 @@ git config --global user.email 'eoe2005@gmail.com'
 
 git clone git@github.com:eoe2005/gphplib.git
 git clone git@github.com:eoe2005/gphpapp.git
-git clone git@github.com:eoe2005/GeminiProChat.git
 git clone git@github.com:eoe2005/CFWK.git
 git clone git@github.com:eoe2005/platformio_wch583m.git
 git clone git@github.com:eoe2005/platformio_wch583m_sdk.git
